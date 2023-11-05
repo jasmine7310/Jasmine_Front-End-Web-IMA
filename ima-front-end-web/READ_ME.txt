@@ -21,7 +21,7 @@
 
     - > (a tag that is the immediate child of another tag/ right under/ the first child) ex: body>main  (body is the parent, main is the child)
     - Git - runs on terminal
-    - Github - saves 
+    - Github - saves code
     - Repo/ Repository
     - Commit
     - (push/pull) fetch
